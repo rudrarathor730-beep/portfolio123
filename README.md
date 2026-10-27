@@ -5,7 +5,7 @@
 - **Roll No.:** 25BCON1175
 - **Email:** rudrarathor730@gmail.com
 - **GitHub:** [rudrarathor730-beep](https://github.com/rudrarathor730-beep)
-
+- **deploy link** [https://portfolio123-rho-three.vercel.app/]
 ## Project Overview
 A modern, responsive personal portfolio website showcasing software development projects, technical skills, experiments, and contact information. Includes an integrated AI chatbot assistant, live weather telemetry widget, and dark/light mode toggle.
 
